@@ -10,5 +10,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "user":[
+    {"id":1,name:"jack",address:"guangzhou"},
+     {"id":2,name:"lucy",address:"shenzhen"},
+     {"id":3,name:"mark",address:"shanghai"}
+  ]
 }
